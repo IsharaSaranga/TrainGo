@@ -1,83 +1,58 @@
 # 🚆 TrainGO - Train Reservation Management System
 
-TrainGO is a **comprehensive web-based train reservation platform** designed to simplify ticket booking and travel management.
-Built with **Java Servlets, JSP, and MySQL**, it provides a complete solution for both **passengers** and **administrators**, with a responsive modern UI.
+[![Java](https://img.shields.io/badge/Java-Servlets-orange?logo=java)](https://www.oracle.com/java/) 
+[![JSP](https://img.shields.io/badge/JSP-JavaServer%20Pages-blue)](https://javaee.github.io/javaee-spec/jsp.html) 
+[![MySQL](https://img.shields.io/badge/Database-MySQL-lightblue?logo=mysql)](https://www.mysql.com/) 
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
+**TrainGO** is a **web-based train reservation platform** designed for easy ticket booking and travel management.  
+Built with **Java Servlets, JSP, and MySQL**, it serves both **passengers** and **administrators** with a **modern, responsive UI**.  
 
 ---
 
-## ✨ Key Features
+## ✨ Features
 
-### 👤 For Passengers
+### 👤 Passenger Module
+- 🔑 User Registration & Authentication  
+- 🚉 Search Trains & Book Tickets  
+- 💺 Seat Selection & Reservation Management  
+- 🧑‍💼 Profile Management (update details anytime)  
+- 🎟️ Ticket Search & Cancellation  
+- ⭐ Review & Rating System  
+- ⏱️ Real-Time Train Schedules  
+- 📱 Mobile-Responsive Design  
 
-* 🔑 **User Registration & Authentication**
-* 🚉 **Search Trains & Book Tickets**
-* 💺 **Seat Selection & Reservation Management**
-* 🧑‍💼 **Passenger Profile Management** (update details anytime)
-* 🎟️ **Ticket Search & Cancellation**
-* ⭐ **Review & Rating System** for train services
-* ⏱️ **Real-Time Train Schedule Viewing**
-* 📱 **Responsive & Modern Web Interface**
-
-### 🛠️ For Administrators
-
-* 📊 **Comprehensive Admin Dashboard**
-* 👥 **User Management** (CRUD operations on passengers)
-* 🗓️ **Train Schedule & Route Management**
-* 📑 **Reservation Monitoring & Management**
-* 📝 **Review & Feedback Administration**
-* 📈 **Real-Time Statistics & Reporting**
+### 🛠️ Admin Module
+- 📊 Dashboard with statistics  
+- 👥 User Management (CRUD operations)  
+- 🗓️ Train Schedule & Route Management  
+- 📑 Reservation Monitoring  
+- 📝 Review & Feedback Management  
+- 📈 Reports & Analytics  
 
 ---
 
-## 🏗️ Technical Architecture
+## 🏗️ Tech Stack
 
-### 🔙 Backend
+**Backend**  
+- ☕ Java Servlets (Core logic)  
+- 🗄️ MySQL (Database)  
+- 🔗 JDBC (Database Connectivity)  
+- 🔒 Session Management (Secure Authentication)  
 
-* ☕ **Java Servlets** – Core server-side logic
-* 🗄️ **MySQL Database** – Data persistence
-* 🔗 **JDBC** – Database connectivity
-* 🔒 **Session Management** – Secure user authentication
-
-### 🎨 Frontend
-
-* 📄 **JSP (JavaServer Pages)** – Dynamic content rendering
-* 🎨 **CSS** – Modern, responsive styling
-* ⚡ **JavaScript** – Interactive features
-* 🖥️ **Bootstrap-style Responsive Design**
+**Frontend**  
+- 📄 JSP (Dynamic pages)  
+- 🎨 CSS + Bootstrap (Responsive styling)  
+- ⚡ JavaScript (Interactive features)  
 
 ---
 
-## 🗂️ Database Structure
-
-* 👥 Passenger Management (accounts, profiles)
-* 🚆 Train Schedules & Route Information
-* 💺 Seat Reservation System
-* ⭐ Review & Rating System
-* 🛡️ Admin & Guard Authentication
-
----
-
-## 🔑 Core Functionality
-
-* 🎟️ **Reservation System** – Complete booking workflow (search → reserve → confirm)
-* 👤 **User Management** – Registration, login, profile updates
-* 🚉 **Train Management** – Schedule creation, route handling, capacity tracking
-* 💺 **Seat Management** – Real-time seat availability and allocation
-* ⭐ **Review System** – Passenger feedback and ratings
-* 🛠️ **Admin Controls** – Full CRUD operations for management
+## 🗂️ Database Modules
+- 👥 Passenger Accounts & Profiles  
+- 🚆 Train Schedules & Routes  
+- 💺 Seat Reservations  
+- ⭐ Reviews & Ratings  
+- 🛡️ Admin & Guard Authentication  
 
 ---
-
-## 📚 Educational Purpose
-
-This project is ideal for:
-
-* 🎓 **Object-Oriented Programming** courses
-* 🌐 **Web Development** (Java EE, JSP, Servlets)
-* 🗄️ **Database Integration Projects**
-* 🏢 **Enterprise-level Web Application Design**
-
----
-
-✅ With **TrainGO**, you get a **real-world, enterprise-level application** that demonstrates **scalable architecture, separation of concerns, and user-focused design**.
-
+✅ **TrainGO** demonstrates **scalable architecture, modular design, and user-focused features** a solid project for both academic and practical use.  
