@@ -22,7 +22,7 @@
   <!-- deployed, this file is processed, followed by the                    -->
   <!-- "/WEB-INF/web.xml" deployment descriptor from your own               -->
   <!-- applications.                                                        -->
-  <!--                                                                      -->
+  <!--            ....                                                      -->
   <!-- WARNING:  Do not configure application-specific resources here!      -->
   <!-- They should go in the "/WEB-INF/web.xml" file in your application.   -->
 
