@@ -5,7 +5,8 @@
 [![MySQL](https://img.shields.io/badge/Database-MySQL-lightblue?logo=mysql)](https://www.mysql.com/) 
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-**TrainGO** is a **web-based train reservation platform** designed for easy ticket booking and travel management.  
+**TrainGO** is a **web-based train reservation platform** designed for easy ticket booking and travel management. 
+
 Built with **Java Servlets, JSP, and MySQL**, it serves both **passengers** and **administrators** with a **modern, responsive UI**.  
 
 ---
@@ -55,4 +56,5 @@ Built with **Java Servlets, JSP, and MySQL**, it serves both **passengers** and 
 - 🛡️ Admin & Guard Authentication  
 
 ---
+
 ✅ **TrainGO** demonstrates **scalable architecture, modular design, and user-focused features** a solid project for both academic and practical use.  
